@@ -16,7 +16,7 @@ Frontend-only project (API-ready)
 ▶️ Run Locally
 Copy code
 Bash
-git clone https://github.com/your-username/ai-resume-screener-frontend.git
+git clone https://github.com/Gokila/ai-resume-screener-frontend.git
 cd ai-resume-screener-frontend
 npm install
 npm start
