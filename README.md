@@ -13,17 +13,10 @@ React.js
 Tailwind CSS
 React Hooks
 Frontend-only project (API-ready)
-▶️ Run Locally
-Copy code
-Bash
-git clone https://github.com/Gokila171205/ai-resume-screener-frontend.git
-cd ai-resume-screener-frontend
-npm install
-npm start
+
 📌 Future Scope
 Backend & AI integration
 Resume parsing automation
 Fair ranking improvements
-👩‍💻 Author
-Gokila P
+
 ⭐ Star the repo if you find it useful!
